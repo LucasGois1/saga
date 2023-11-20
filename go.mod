@@ -1,4 +1,4 @@
-module github.com/LucasGois1/saga
+module github.com/LucasGois1/saga-pattern
 
 go 1.21
 
