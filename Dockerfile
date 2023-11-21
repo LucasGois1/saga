@@ -1,4 +1,4 @@
-FROM arm64v8/golang
+FROM golang:latest
 LABEL authors="lucasgois"
 
 RUN go install golang.org/x/tools/gopls@latest && \
